@@ -1,0 +1,9 @@
+*.png
+*.pdf
+*.csv
+.ipynb_checkpoints/
+__MACOSX/
+*.json
+*.zip
+glacier_svalbard_20142018
+*.nc
