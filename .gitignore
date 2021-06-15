@@ -1,4 +1,4 @@
-/.ipynb_checkpoints/
+**/*.ipynb_checkpoints/
 *.png
 *.pdf
 *.pyc
@@ -16,3 +16,9 @@
 *.shp.shp
 *.shp.shx
 *.shx
+*.csv
+/DataFrame_produced/
+/DataFrame_produced_clean/
+/Figure_produced/
+*.odg
+/paper1/
