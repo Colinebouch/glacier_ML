@@ -1,4 +1,6 @@
 # Surging potential and controlling parameters for glaciers in Svalbard
+DOI: https://doi.org/10.5281/zenodo.5657088
+
 This README contains where to find the information to reproduce the figures of the paper Bouchayer et al., (in prep).
 First, the code contains how to handle the data
 
